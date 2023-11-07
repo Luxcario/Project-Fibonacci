@@ -14,7 +14,7 @@ Tambahkan ```Button (limit)```, ```Button(count)```, ```Button (Toast)```, ```Te
 **2. Membuat Tampilan Layout** 
 Buat pada activity.xml
 **Button Set Limit**
-Membuat Button untuk Set Limit,  untuk ukuran ```layout``` tidak harus mengikuti sesuaikan dengan ukuran device cobalah untuk mengatur nya sendiri, lakukan uji coba secara terus menerus sampai sesuai dengan device
+Membuat  Tampilan Button untuk Set Limit unutk mengatur Limit Fibonacci,  untuk ukuran ```layout``` tidak harus mengikuti sesuaikan dengan ukuran device cobalah untuk mengatur nya sendiri, lakukan uji coba secara terus menerus sampai sesuai dengan device
 ```
 <Button
   android:id="@+id/button_toast"
@@ -33,7 +33,7 @@ Membuat Button untuk Set Limit,  untuk ukuran ```layout``` tidak harus mengikuti
 ```
 
 **Button Count**
-Membuat Button untuk Fibonacci, untuk ukuran ```layout``` tidak harus mengikuti sesuaikan dengan ukuran device cobalah untuk mengatur nya sendiri, lakukan uji coba secara terus menerus sampai sesuai dengan device
+Membuat  tampilan Button untuk Fibonacci untuk menabah Fibonacci, untuk ukuran ```layout``` tidak harus mengikuti sesuaikan dengan ukuran device cobalah untuk mengatur nya sendiri, lakukan uji coba secara terus menerus sampai sesuai dengan device
 ```
 <Button
   android:id="@+id/button_count"
@@ -55,7 +55,7 @@ Membuat Button untuk Fibonacci, untuk ukuran ```layout``` tidak harus mengikuti 
 ```
 
 **Button Toast**
-Membuat Button Toast, untuk ukuran ```layout``` tidak harus mengikuti sesuaikan dengan ukuran device cobalah untuk mengatur nya sendiri, lakukan uji coba secara terus menerus sampai sesuai dengan device
+Membuat tampilan Button Toast untuk reset Fibonacci, untuk ukuran ```layout``` tidak harus mengikuti sesuaikan dengan ukuran device cobalah untuk mengatur nya sendiri, lakukan uji coba secara terus menerus sampai sesuai dengan device
 ```
 <Button
   android:id="@+id/button_finish"
@@ -249,5 +249,8 @@ Build Project, aktifkan mode developer pada device anda, aktifkan usb debug, sam
 ![image](https://github.com/Luxcario/Project-Fibonacci/assets/116184002/b74dbd96-e98d-41a5-9f34-6172c5def48b)
 
 # Hasil Run
+
+https://github.com/Luxcario/Project-Fibonacci/assets/116184002/84efa86f-cc8d-4496-998c-116dcac48cc5
+
 
 
